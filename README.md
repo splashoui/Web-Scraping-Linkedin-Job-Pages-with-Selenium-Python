@@ -34,3 +34,10 @@ In this project, I have used Selenium library to automate the scraping process, 
 5. Work Method (Hybrid, Remote, On-Site)
 6. Experience Level
 7. Post Date
+
+
+
+Extra:
+
+You can check my medium post where I have analyzed the data and found some useful insights:
+https://medium.com/@kurumert/the-insights-behind-the-data-field-job-offers-on-linkedin-4edb5203525b
